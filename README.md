@@ -22,35 +22,29 @@ Execute the necessary commands/batch file for the desired output.
 
 
 
-
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
+![328844787-d56ba231-feac-44d6-b5c3-5796e35c65c7](https://github.com/gayathrimurugan12/Windows-basic-commands-batchscript/assets/149365374/d30f7d91-4860-487c-b9e6-48375711d439)
+
+
+## COMMAND AND OUTPUT
+
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
-List the contents of the "MyLab" directory.
+![328844961-363ac174-0495-4ada-9cdf-ec947c2d3135](https://github.com/gayathrimurugan12/Windows-basic-commands-batchscript/assets/149365374/f98e5c7c-0ca4-49ec-879e-e252bc22af0a)
 
-![WhatsApp Image 2024-05-18 at 14 07 09_6c481685](https://github.com/DHIVYA050430/Windows-basic-commands-batchscript/assets/147141546/e06c2a97-a95d-4d62-bc25-49da9a735b40)
-
-## COMMAND AND OUTPUT
-Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
-![WhatsApp Image 2024-05-18 at 14 07 27_efe3b594](https://github.com/DHIVYA050430/Windows-basic-commands-batchscript/assets/147141546/56500cd6-5335-4906-9cea-48699d0327ef)
 
 ## COMMAND AND OUTPUT
-Move the "MyLab" directory to the "Documents" folder.
-![WhatsApp Image 2024-05-18 at 14 07 43_8db430fc](https://github.com/DHIVYA050430/Windows-basic-commands-batchscript/assets/147141546/f710b8f6-cc65-4558-b3da-83f5b7a17a05)
 
+List the contents of the "MyLab" directory.
+![328845007-fb9c929a-e158-4a48-805c-795f79d4071f](https://github.com/gayathrimurugan12/Windows-basic-commands-batchscript/assets/149365374/c8d2962c-d6a3-4cc3-964c-c75ebe93cfd8)
 
 ## Exercise 2: Advanced Batch Scripting
-Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
+Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop
 
 ## OUTPUT
-![WhatsApp Image 2024-05-18 at 14 07 59_3fb43cf0](https://github.com/DHIVYA050430/Windows-basic-commands-batchscript/assets/147141546/b583f0ad-8e00-4bac-b168-ccd4328ccaeb)
 
-![WhatsApp Image 2024-05-18 at 14 08 06_5c70d770](https://github.com/DHIVYA050430/Windows-basic-commands-batchscript/assets/147141546/8ffb4f80-1643-403b-80fc-6cb28eaca673)
-
-## RESULT
-The commands/batch files are executed successfully.
-
+![328845067-e7e757a0-3e43-46b3-b908-1686c5569c57](https://github.com/gayathrimurugan12/Windows-basic-commands-batchscript/assets/149365374/5a8ca009-4929-4573-90dc-390c26cc80af)
 
 
 
